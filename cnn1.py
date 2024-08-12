@@ -4,8 +4,8 @@ import torchvision
 import torchvision.transforms as transforms
 import torch.nn.functional as F
 import torch.optim as optim
-from train1.py import train1
-from plot1.py import plot1
+from train.py import train1
+from plot.py import plot1
 
 # getting dataset of audio files
 

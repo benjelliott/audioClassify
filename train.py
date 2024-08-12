@@ -1,6 +1,6 @@
 from tqdm import tqdm
 
-def train1(our_net, trainloader, criterion, optimizer)
+def train1(our_net, trainloader, criterion, optimizer):
 
     history = []
     for epoch in tqdm(range(100)):  
